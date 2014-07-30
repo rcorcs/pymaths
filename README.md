@@ -1,7 +1,8 @@
 
 Fractals:
 
-![Burning Ship fractal](https://raw.github.com/rcorcs/JAnthill/master/wiki/figures/anthill.jpg)
-![Mandelbrot fractal](https://raw.github.com/rcorcs/JAnthill/master/wiki/figures/anthill.jpg)
-![Mandelbrot fractal](https://raw.github.com/rcorcs/JAnthill/master/wiki/figures/anthill.jpg)
-![Newton fractal](https://raw.github.com/rcorcs/JAnthill/master/wiki/figures/anthill.jpg)
+![Burning Ship fractal](https://raw.githubusercontent.com/rcorcs/pymaths/master/img/burningship000.png)
+![Mandelbrot fractal](https://raw.githubusercontent.com/rcorcs/pymaths/master/img/madelbrot000.png)
+![Mandelbrot fractal](https://raw.githubusercontent.com/rcorcs/pymaths/master/img/madelbrot001.png)
+![Newton fractal](https://raw.githubusercontent.com/rcorcs/pymaths/master/img/newton000.png)
+![Newton fractal](https://raw.githubusercontent.com/rcorcs/pymaths/master/img/newton001.png)
